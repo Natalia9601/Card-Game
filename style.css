@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  padding: 50px;
+}
+
+.player-title {
+  font-size: 20px;
+  color: #222;
+}
+
+.cards-row {
+  display: flex;
+  gap: 8px;
+}
+
+.card {
+  background-color: #e4e4e4;
+  color: #000000;
+  font-size: 70px;
+  padding: 6px 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.red {
+  color: #b51919;
+}
